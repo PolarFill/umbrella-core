@@ -1,1 +1,1 @@
-"# umbrella-core" 
+# umbrella-core
